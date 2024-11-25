@@ -15,5 +15,6 @@ public class Car_Rental {
      */
     public static void main(String args[]) {
         System.out.print("Hello");
+        System.out.print("How are you ?");
     }
 }
